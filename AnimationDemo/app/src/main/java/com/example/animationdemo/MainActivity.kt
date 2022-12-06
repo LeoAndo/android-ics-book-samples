@@ -1,6 +1,5 @@
 package com.example.animationdemo
 
-import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
 import android.animation.PropertyValuesHolder
 import androidx.appcompat.app.AppCompatActivity
